@@ -1,10 +1,10 @@
 # Odyssey Lift-off Series
 
-Welcome to the companion app of Odyssey Lift-off Series! Here are all the Parts of the Series 
-[Odyssey Lift-off I: Basics](https://odyssey.apollographql.com/lift-off-part1)
-[Odyssey Lift-off II: Resolvers](https://www.apollographql.com/tutorials/lift-off-part2)
-[Odyssey Lift-off III: Arguments](https://www.apollographql.com/tutorials/lift-off-part3)
-[Odyssey Lift-off IV: Mutations](https://www.apollographql.com/tutorials/lift-off-part4)
+Welcome to the companion app of Odyssey Lift-off Series! Here are all the Parts of the Series\
+[Odyssey Lift-off I: Basics](https://odyssey.apollographql.com/lift-off-part1)\
+[Odyssey Lift-off II: Resolvers](https://www.apollographql.com/tutorials/lift-off-part2)\
+[Odyssey Lift-off III: Arguments](https://www.apollographql.com/tutorials/lift-off-part3)\
+[Odyssey Lift-off IV: Mutations](https://www.apollographql.com/tutorials/lift-off-part4)\
 
 You can [preview the completed demo app here](https://odyssey-catstronauts.netlify.app/).
 
