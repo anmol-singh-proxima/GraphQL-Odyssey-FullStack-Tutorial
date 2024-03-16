@@ -19,3 +19,7 @@ cd ../client/
 npm install graphql @apollo/client
 
 - Add the @apollo-cient in FrontEnd
+
+Changed the Git remote origin to my GitHub repo
+git remote set-url origin https://github.com/anmol-singh-proxima/GraphQL-Odyssey-FullStack-Tutorial
+
