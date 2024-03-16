@@ -58,7 +58,7 @@ const TrackDetail = ({ track }) => {
             <AuthorImage src={author.photo} />
             <AuthorName>{author.name}</AuthorName>
           </DetailItem>
-          {/* <div>
+          <div>
             <StyledLink to={`./module/${modules['id']}`}>
               <Button
                 icon={<IconRun width="20px" />}
@@ -68,9 +68,9 @@ const TrackDetail = ({ track }) => {
                 Start Track
               </Button>
             </StyledLink>
-          </div> */}
+          </div>
         </DetailRow>
-        {/* <ModuleListContainer>
+        <ModuleListContainer>
           <DetailItem>
             <h4>Modules</h4>
             <ul>
@@ -84,7 +84,7 @@ const TrackDetail = ({ track }) => {
               ))}
             </ul>
           </DetailItem>
-        </ModuleListContainer> */}
+        </ModuleListContainer>
       </TrackDetails>
       <MarkDown content={description} />
     </ContentSection>

@@ -18,4 +18,4 @@ npm install @graphql-tools/mock @graphql-tools/schema
 cd ../client/
 npm install graphql @apollo/client
 
-- Install 'Apollo Client Devtools' Chrome Extension
+- Add the @apollo-cient in FrontEnd
