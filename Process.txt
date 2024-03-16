@@ -1,0 +1,12 @@
+
+git clone https://github.com/apollographql/odyssey-lift-off-part1
+
+cd server/
+npm install && npm start
+
+cd ../client/
+npm install && npm start
+
+cd ../server/
+npm install @apollo/server graphql graphql-tag
+
