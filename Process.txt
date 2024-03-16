@@ -14,3 +14,8 @@ npm install @apollo/server graphql graphql-tag
 npm install @graphql-tools/mock @graphql-tools/schema
 - Create a server in './src/index.js' file.
 - Once the server starts running, click on the Link given and explore. The link is for Apollo Explorer.
+
+cd ../client/
+npm install graphql @apollo/client
+
+- Install 'Apollo Client Devtools' Chrome Extension
