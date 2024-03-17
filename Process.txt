@@ -23,3 +23,4 @@ npm install graphql @apollo/client
 Changed the Git remote origin to my GitHub repo
 git remote set-url origin https://github.com/anmol-singh-proxima/GraphQL-Odyssey-FullStack-Tutorial
 
+npm install @apollo/datasource-rest
